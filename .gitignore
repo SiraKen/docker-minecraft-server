@@ -1,0 +1,8 @@
+# server
+data/
+
+# notebook
+.ipynb_checkpoints
+
+# misc
+.DS_Store
